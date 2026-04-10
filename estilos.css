@@ -1,0 +1,15 @@
+/* === RESET — va siempre primero === */
+* {
+margin: 0;
+padding: 0;
+box-sizing: border-box;
+}
+/* === TIPOGRAFÍA BASE === */
+body {
+font-family: 'Montserrat', sans-serif; /* reemplazar con la fuente elegida */
+background-color: #182844; /* reemplazar con el color de fondo */
+color: #ecf0f1;
+}
+h1, h2, h3 {
+font-family: 'Honk', sans-serif; /* reemplazar con la fuente de títulos */
+}
