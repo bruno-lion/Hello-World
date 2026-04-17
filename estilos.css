@@ -10,10 +10,9 @@ font-family: 'Montserrat', sans-serif; /* reemplazar con la fuente elegida */
 background-color: #182844; /* reemplazar con el color de fondo */
 color: #ecf0f1;
 }
-h1, h2, h3 {
-font-family: 'Honk', sans-serif; /* reemplazar con la fuente de títulos */
-}
+
 #titulo {
+    font-family: 'Honk', sans-serif; /* reemplazar con la fuente de títulos */
     text-align: center;
-    font-size: 100%;
+    font-size: 150%;
 }
