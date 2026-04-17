@@ -14,14 +14,10 @@ color: #ecf0f1;
 #titulo {
     font-family: 'Honk', sans-serif; /* reemplazar con la fuente de títulos */
     text-align: center;
-<<<<<<< HEAD
     font-size: 100%;
 }
 
 #about {
     text-align: center;
     font-size: 100%;
-=======
-    font-size: 150%;
->>>>>>> Seccion-Contacto
 }
