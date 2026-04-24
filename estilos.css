@@ -30,6 +30,7 @@ color: var(--color-tres);
     font-size: 100%;
     padding: 28px;
     background-color: var(--color-secundario);
+    overflow: auto;
 }
 
 #contacto {
