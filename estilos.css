@@ -1,3 +1,9 @@
+:root {
+    --color-fondo: #2a3439;
+    --color-secundario: #182844;
+    --color-tres: #ecf0f1;
+}
+
 /* === RESET — va siempre primero === */
 * {
 margin: 0;
@@ -7,8 +13,8 @@ box-sizing: border-box;
 /* === TIPOGRAFÍA BASE === */
 body {
 font-family: 'Montserrat', sans-serif; 
-background-color: #2a3439; 
-color: #ecf0f1;
+background-color: var(--color-fondo); 
+color: var(--color-tres);
 }
 
 #titulo {
@@ -23,13 +29,13 @@ color: #ecf0f1;
     text-align: center;
     font-size: 100%;
     padding: 28px;
-    background-color: #182844;
+    background-color: var(--color-secundario);
 }
 
 #contacto {
     display: inline-block;
-    background-color: #ecf0f1;
-    color: #2a3439;
+    background-color: var(--color-tres);
+    color: var(--color-fondo);
 }
 footer {
     text-align: right;
